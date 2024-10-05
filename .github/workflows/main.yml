@@ -40,7 +40,7 @@ jobs:
       - name: 部署到 Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository-name: Aimony/Aimony.github.io
+          # repository-name: Aimony/Aimony.github.io
           clean: true
           ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
           branch: action-pages
