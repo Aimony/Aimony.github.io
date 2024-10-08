@@ -9,6 +9,7 @@ import 'vitepress-markdown-timeline/dist/theme/index.css'
 // import 'virtual:group-icons.css'
 export default {
   ...BlogTheme,
+  ignoreDeadLinks: true,
   // enhanceApp: ctx => {
   //   googleAnalytics({
   //     id: 'G-38J2Q2X6HV',
