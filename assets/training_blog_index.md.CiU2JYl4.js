@@ -1,0 +1,16 @@
+import{_ as s,o as a,c as i,a8 as n}from"./chunks/framework.CtAXtxNA.js";const g=JSON.parse(`{"title":"","description":"","frontmatter":{"head":[["script",{"charset":"UTF-8","id":"LA_COLLECT","src":"//sdk.51.la/js-sdk-pro.min.js"}],["script",{},"typeof LA !== 'undefined' && LA.init({\\"id\\":\\"475303\\",\\"ck\\":\\"3JvYouexrZJnA5FL\\",\\"hashMode\\":true})"]]},"headers":[],"relativePath":"training/blog/index.md","filePath":"training/blog/index.md","lastUpdated":1728357169000}`),e={name:"training/blog/index.md"},t=n(`<p><strong>时序图</strong></p><div class="language-mermaid vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">mermaid</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">sequenceDiagram</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Alice-&gt;&gt;John: Hello John, how are you?</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">loop Healthcheck</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    John-&gt;&gt;John: Fight against hypochondria</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">end</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Note right of John: Rational thoughts!</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">John--&gt;&gt;Alice: Great!</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">John-&gt;&gt;Bob: How about you?</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Bob--&gt;&gt;John: Jolly good!</span></span></code></pre></div><p><strong>甘特图</strong></p><div class="language-mermaid vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">mermaid</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">gantt</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    section Section</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    Completed :done,    des1, 2014-01-06,2014-01-08</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    Active        :active,  des2, 2014-01-07, 3d</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    Parallel 1   :         des3, after des1, 1d</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    Parallel 2   :         des4, after des1, 1d</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    Parallel 3   :         des5, after des3, 1d</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    Parallel 4   :         des6, after des4, 1d</span></span></code></pre></div>`,4),l=[t];function p(h,d,o,r,E,c){return a(),i("div",{"data-pagefind-body":!0},l)}const _=s(e,[["render",p]]);export{g as __pageData,_ as default};
