@@ -13,12 +13,12 @@ sidebar: false
 ::: tip 版权声明
 除特殊说明，本站文章皆为原创，著作权归作者所有。依据 [CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可证进行授权。
 
-本站源码开源于 [Github](https://github.com/i-mufeng/mblog) ，采用 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.md) 开源协议。
+本站源码开源于 [Github](https://github.com/Aimony/Aimony.github.io) ，采用 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.md) 开源协议。
 :::
 
-::: details 站点信息
+<!-- ::: details 站点信息
 
-- **博主：** Mufeng
+- **博主：** Aimony
 
 - **头像：** [Gavatar-CN](https://cn.gravatar.com/avatar/f1dcdc8fa782b81824df5d67022e4d4a)
 
@@ -28,7 +28,7 @@ sidebar: false
 
 - **E-mail：** admin@imufeng.cn
 
-:::
+::: -->
 
 ### 关于 MUFENG
 

@@ -10,9 +10,9 @@ sidebar: false
 ::: details 友链申请格式
 
 
-- **站点名称：** `沐风的小站`
+- **站点名称：** `Aimony的小站`
 
-- **站点地址：** `https://imufeng.cn`
+- **站点地址：** `http://blog.linser.shop`
 
 - **一句话：** `但愿岁月如客，来去皆从容。`
 
@@ -58,58 +58,15 @@ const friends = [
           { icon: 'twitter' , link: 'https://twitter.com/Mr_XiaoZou' },
         ]
       },
-      {
-        avatar: 'https://img2.moeblog.vip/images/ev3v.png',
-        name: '白の后花园',
-        title: '一片互联网自留地',
-        links: [
-          { icon: {svg: webSiteSvg}, link: 'https://justmyblog.net/' },
-          { icon: 'twitter', link: 'https://twitter.com/verymoes' },
-          { icon: 'github', link: 'https://github.com/verymoe' }
-        ]
-      },
-      {
-        avatar: 'https://static.lty.fun/weblogo/my.jpg',
-        name: 'Luminous’ Home',
-        title: '记录生活中的点滴',
-        links: [
-          { icon: {svg: webSiteSvg}, link: 'https://luotianyi.vc/' },
-        ]
-      },
-      {
-        avatar: 'https://www.aicsuk.net/imgs/avatar1.jpg',
-        name: 'Aicsukの世界',
-        title: '一个小小的博客',
-        links: [
-          { icon: {svg: webSiteSvg}, link: 'https://www.aicsuk.net' },
-          { icon: "github", link: 'https://github.com/aicsuk' },
-        ]
-      },
-      {
-        avatar: 'https://img.puresys.net/wp-content/uploads/2021/05/cropped-1621683691-20210522193059-192x192.jpg',
-        name: 'Puresys',
-        title: ' 纯净系统-软件下载',
-        links: [
-          { icon: {svg: webSiteSvg}, link: 'https://www.puresys.net' },
-        ]
-      },
-      {
-        avatar: 'https://img.bestreven.top/20240308_1709872211169.png',
-        name: 'BestReven博客',
-        title: '一个专注技术分享的平台',
-        links: [
-          { icon: {svg: webSiteSvg}, link: 'https://www.bestreven.top' },
-        ]
-      },
-      {
-        avatar: 'https://www.wxmin.cn:9000/ants-file/imgUrl/logo_1661824383783.png',
-        name: ' June 12',
-        title: '小陈的个人博客。记录所学知识，分享开发经验！',
-        links: [
-          { icon: {svg: webSiteSvg}, link: 'https://www.wxmin.cn' },
-          { icon: "github", link: 'https://github.com/cc-chenshuang' },
-        ]
-      }
+       {
+         avatar: 'https://cdn.imufeng.cn/mblog/avatar-1.jpg',
+         name: '沐风的个人空间',
+         title: '一名后端小白的互联网自留地',
+         links: [
+           { icon: {svg: webSiteSvg}, link: 'https://www.imufeng.cn/' },
+           { icon: 'github', link: 'https://github.com/i-mufeng' }
+         ]
+       }
 ]
 </script>
 
