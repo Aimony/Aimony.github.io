@@ -13,6 +13,7 @@ import { La51Plugin } from 'vitepress-plugin-51la'
 // Vitepress 默认配置
 // 详见文档：https://vitepress.dev/reference/site-config
 export default defineConfig({
+  ignoreDeadLinks: true,
   // 继承博客主题配置
   extends: blogTheme,
   lang: 'zh-cn',
